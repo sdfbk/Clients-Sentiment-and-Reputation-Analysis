@@ -1,0 +1,44 @@
+﻿Record_ID,Date,Month,Sector Entity,Social Media Platform,Sentiment,Aspect Category,Impact Weight
+REC-5000,20-02-2026,February,Banking Sector,News Portals,Positive,Interest Rates,50%
+REC-5002,31-03-2026,March,MEA,Twitter/X,Negative,Diplomatic Relations,50%
+REC-5003,23-02-2026,February,MEA,News Portals,Positive,Visa Services,50%
+REC-5004,06-04-2026,April,MEA,Twitter/X,Negative,Crisis Management,25%
+REC-5005,15-02-2026,February,Banking Sector,YouTube,Positive,Customer Support,100%
+REC-5006,01-04-2026,April,MoRTH,YouTube,Neutral,Toll Management,100%
+REC-5007,07-02-2026,February,MoRTH,Twitter/X,Positive,Road Safety,100%
+REC-5008,19-04-2026,April,MEA,Twitter/X,Positive,Consular Services,100%
+REC-5009,13-01-2026,January,MEA,YouTube,Neutral,Visa Services,100%
+REC-5010,17-03-2026,March,Banking Sector,News Portals,Positive,Cybersecurity,100%
+REC-5011,16-04-2026,April,Banking Sector,Twitter/X,Neutral,Interest Rates,75%
+REC-5013,05-01-2026,January,MEA,Reddit,Neutral,International Trade,100%
+REC-5014,02-04-2026,April,MoRTH,News Portals,Neutral,Project Timelines,25%
+REC-5015,13-04-2026,April,MEA,News Portals,Neutral,Consular Services,50%
+REC-5016,22-04-2026,April,Banking Sector,Twitter/X,Neutral,Loan Processing,100%
+REC-5017,22-01-2026,January,Banking Sector,LinkedIn,Negative,Customer Support,75%
+REC-5018,24-03-2026,March,MEA,News Portals,Negative,Diplomatic Relations,100%
+REC-5019,25-01-2026,January,MEA,YouTube,Neutral,Visa Services,25%
+REC-5020,07-03-2026,March,MEA,YouTube,Negative,International Trade,25%
+REC-5021,03-04-2026,April,MEA,YouTube,Neutral,Visa Services,50%
+REC-5023,29-01-2026,January,MEA,LinkedIn,Neutral,Toll Management,25%
+REC-5024,27-02-2026,February,MEA,YouTube,Negative,Consular Services,100%
+REC-5025,20-04-2026,April,MEA,Reddit,Neutral,Visa Services,25%
+REC-5026,03-02-2026,February,MoRTH,LinkedIn,Neutral,EV Infrastructure,50%
+REC-5027,03-02-2026,February,Banking Sector,Reddit,Negative,Loan Processing,25%
+REC-5028,24-03-2026,March,MoRTH,News Portals,Neutral,Project Timelines,100%
+REC-5029,05-04-2026,April,MEA,YouTube,Neutral,Visa Services,100%
+REC-5030,14-03-2026,March,MoRTH,Reddit,Neutral,Project Timelines,75%
+REC-5031,09-02-2026,February,MoRTH,Twitter/X,Neutral,Highway Infrastructure,75%
+REC-5032,13-01-2026,January,MoRTH,News Portals,Positive,Highway Infrastructure,100%
+REC-5033,16-03-2026,March,MEA,LinkedIn,Positive,Crisis Management,75%
+REC-5034,06-01-2026,January,Banking Sector,LinkedIn,Negative,Interest Rates,50%
+REC-5035,08-01-2026,January,MoRTH,Twitter/X,Positive,Toll Management,100%
+REC-5036,05-03-2026,March,MoRTH,Twitter/X,Neutral,EV Infrastructure,100%
+REC-5037,09-01-2026,January,MEA,News Portals,Positive,International Trade,100%
+REC-5040,24-03-2026,March,Banking Sector,YouTube,Neutral,Customer Support,100%
+REC-5043,09-01-2026,January,MoRTH,Twitter/X,Neutral,EV Infrastructure,50%
+REC-5044,24-03-2026,March,MoRTH,News Portals,Positive,Project Timelines,50%
+REC-5045,10-01-2026,January,MEA,LinkedIn,Positive,Diplomatic Relations,100%
+REC-5046,23-04-2026,April,MEA,Twitter/X,Neutral,Diplomatic Relations,25%
+REC-5047,05-02-2026,February,Banking Sector,Reddit,Neutral,Interest Rates,100%
+REC-5048,01-03-2026,March,MoRTH,Reddit,Negative,Toll Management,100%
+REC-5049,22-04-2026,April,MoRTH,Twitter/X,Neutral,Highway Infrastructure,100%
