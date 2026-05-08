@@ -36,3 +36,6 @@ Are our policies working? The Trend Line allows us to see if sentiment improved 
 
 The Takeaway
 This project taught me that being a Data Analyst isn't just about knowing Python or Power BI—it’s about the ability to take a "mess" of information and turn it into a clear, actionable roadmap for a business leader. I’m proud of how I handled every step, from the first line of scraping code to the final interactive filter.
+
+## Project Link
+https://app.powerbi.com/links/EzTnYg5jn2?ctid=533a5541-3f67-4f61-b095-0968b4060be9&pbi_source=linkShare
