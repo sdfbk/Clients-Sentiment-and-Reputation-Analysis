@@ -1,3 +1,6 @@
+# Project Link
+https://app.powerbi.com/view?r=eyJrIjoiOTEzMDI4ZWQtNjg1NS00ODQwLWI2YTQtM2Q4Y2FmM2VmMWEyIiwidCI6IjUzM2E1NTQxLTNmNjctNGY2MS1iMDk1LTA5NjhiNDA2MGJlOSJ9
+
 # Clients-Sentiment-and-Reputation-Analysis
 This project showcases a sophisticated data lifecycle management process, transitioning from raw unstructured data to high-impact business visualizations. By analyzing stakeholder sentiment across the Banking, MEA, and MoRTH sectors, the solution provides a data-driven framework for operational improvement and public relations management
 
@@ -37,5 +40,4 @@ Are our policies working? The Trend Line allows us to see if sentiment improved 
 The Takeaway
 This project taught me that being a Data Analyst isn't just about knowing Python or Power BI—it’s about the ability to take a "mess" of information and turn it into a clear, actionable roadmap for a business leader. I’m proud of how I handled every step, from the first line of scraping code to the final interactive filter.
 
-## Project Link
-https://app.powerbi.com/links/EzTnYg5jn2?ctid=533a5541-3f67-4f61-b095-0968b4060be9&pbi_source=linkShare
+
